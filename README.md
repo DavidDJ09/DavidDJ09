@@ -15,9 +15,9 @@
 
 -  I’m currently looking for a job
 
-- ☁️ I have experience in C#, SQL, HTML/CSS, PHP, Java, JavaScript, Power Platform (Power Apps, Power Automate, Power BI)
+-  I have experience in C#, SQL, HTML/CSS, PHP, Java, JavaScript, Python, Power Platform (Power Apps, Power Automate, Power BI)
 
-- 📫 Feel free to reach me out **diaz.jacobo.david@gmail.com**
+-  Feel free to reach me out **diaz.jacobo.david@gmail.com**
 
 <!--Intro end-->
 
